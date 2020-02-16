@@ -62,4 +62,4 @@ const job = new CronJob(
 );
 
 
-// job.start()
+job.start()
