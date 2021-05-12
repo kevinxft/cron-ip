@@ -2,6 +2,6 @@
   "dependencies": {
     "cron": "^1.8.2",
     "dotenv": "^8.2.0",
-    "nodemailer": "^6.4.2"
+    "nodemailer": "^6.4.16"
   }
 }
